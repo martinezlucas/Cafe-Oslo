@@ -1,0 +1,50 @@
+:root {
+    --red: #d03b40;
+    --beige: #ded6c0;    
+    --grey: #241d1b;
+    --clear: #f5f0ed;
+    --dark: #3c3c3b;
+
+    --mainFont: 'Open Sans', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* Estilos globales */
+body {
+    font-family: var(--mainFont);
+    font-size: 1.6rem;
+}
+
+h1 {
+    font-size: 4.4rem;
+}
+
+h2 {
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 2.4rem;
+}
+
+a {
+    text-decoration: none;
+    color: var(--clear);
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Header */
+.header {
+
+}
