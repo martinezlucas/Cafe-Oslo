@@ -1,2 +1,2 @@
 # Cafe-Oslo
-Práctica de desarrollo web
+Proyecto final de desarrollo web, el cual forma parte del curso "Introducción al Desarrollo Web Responsive con HTML y CSS" impartido por el instructor Javier Usobiaga Ferrer en la plataforma Doméstika.
